@@ -1,0 +1,14 @@
+C:\Users\Perfil\CsharpProject\gameDodes\bin\Debug\net9.0\gameDodes.exe
+C:\Users\Perfil\CsharpProject\gameDodes\bin\Debug\net9.0\gameDodes.deps.json
+C:\Users\Perfil\CsharpProject\gameDodes\bin\Debug\net9.0\gameDodes.runtimeconfig.json
+C:\Users\Perfil\CsharpProject\gameDodes\bin\Debug\net9.0\gameDodes.dll
+C:\Users\Perfil\CsharpProject\gameDodes\bin\Debug\net9.0\gameDodes.pdb
+C:\Users\Perfil\CsharpProject\gameDodes\obj\Debug\net9.0\gameDodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perfil\CsharpProject\gameDodes\obj\Debug\net9.0\gameDodes.AssemblyInfoInputs.cache
+C:\Users\Perfil\CsharpProject\gameDodes\obj\Debug\net9.0\gameDodes.AssemblyInfo.cs
+C:\Users\Perfil\CsharpProject\gameDodes\obj\Debug\net9.0\gameDodes.csproj.CoreCompileInputs.cache
+C:\Users\Perfil\CsharpProject\gameDodes\obj\Debug\net9.0\gameDodes.dll
+C:\Users\Perfil\CsharpProject\gameDodes\obj\Debug\net9.0\refint\gameDodes.dll
+C:\Users\Perfil\CsharpProject\gameDodes\obj\Debug\net9.0\gameDodes.pdb
+C:\Users\Perfil\CsharpProject\gameDodes\obj\Debug\net9.0\gameDodes.genruntimeconfig.cache
+C:\Users\Perfil\CsharpProject\gameDodes\obj\Debug\net9.0\ref\gameDodes.dll
